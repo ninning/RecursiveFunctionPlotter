@@ -10,3 +10,5 @@ y=recurplot(x,n)
 Where 'x' is the size of your call stack
 and 
 'n' is the number of recursive calls within the function.
+
+Attached Example Fig has x=4 and n=3.
