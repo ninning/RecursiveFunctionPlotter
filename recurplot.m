@@ -19,12 +19,6 @@ y(diff(y)==0)=[];
             y(end+1)=x;
         end
         
-        %% Can also set depth of recursion this way.
-        %         y(end+1)=x;
-        %         recur(x-1)
-        %         y(end+1)=x;
-        %         recur(x-1)
-        %         y(end+1)=x;
     end
 
 %% Plotting
