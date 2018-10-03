@@ -18,13 +18,16 @@ y(diff(y)==0)=[];
             recur(x-1)
             y(end+1)=x;
         end
-        
+        %% Can also set depth of recursion this way.
+        %         y(end+1)=x;
+        %         recur(x-1)
+        %         y(end+1)=x;
+        %         recur(x-1)
+        %         y(end+1)=x;
     end
-
 %% Plotting
 plot(y, '-o')
 ylabel('X value')
 xlabel('Stack Step')
 title(strcat('Stack:', num2str(x), '   Recursive Functions:', num2str(n)))
 end
-
