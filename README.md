@@ -20,6 +20,7 @@ Not really sure. Maybe if you want to make some fractal plots.
 
 
 _
+
 Edit 10/3/18
 Python version attached. Uses python 2.7 but 3.7 should be fine.
 
