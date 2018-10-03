@@ -25,8 +25,6 @@ y(diff(y)==0)=[];
         %         y(end+1)=x;
         %         recur(x-1)
         %         y(end+1)=x;
-        %         recur(x-1)
-        %         y(end+1)=x;
     end
 
 %% Plotting
