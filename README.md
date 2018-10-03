@@ -17,3 +17,9 @@ Attached Example Fig has x=4 and n=3.
 
 Where would you use this?
 Not really sure. Maybe if you want to make some fractal plots.
+
+
+
+Edit 10/3/18
+Python version attached. Uses python 2.7 but 3.7 should be run
+type "run recurplot" in ipython or equivalent and use as described above.
