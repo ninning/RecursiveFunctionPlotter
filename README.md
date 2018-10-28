@@ -24,3 +24,8 @@ Edit 10/3/18
 Python version attached. Uses python 2.7 but 3.7 should be fine.
 
 type "run recurplot" in ipython or equivalent and use as described above.
+
+
+## General Considerations ##
+These functions will grow as roughly ~ n^x
+Try to keep the total number below 1e6.
