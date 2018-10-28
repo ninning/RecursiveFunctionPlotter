@@ -1,7 +1,7 @@
 # RecursiveFunctionPlotter
 A function to give a better intuition of how recursive functions work.
 
-Should help you keep track of how variables are changing in recursive functions, especially multiple recursive functions.
+Should help you keep track of and trace how variables are changing in recursive functions, especially multiple recursive functions.
 
 Run this line in MATLAB
 
