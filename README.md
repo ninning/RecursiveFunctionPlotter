@@ -27,5 +27,5 @@ type "run recurplot" in ipython or equivalent and use as described above.
 
 
 ## General Considerations ##
-These functions will grow as roughly ~ n^x
+These functions will grow as roughly ~ a*n^x
 Try to keep the total number below 1e6.
